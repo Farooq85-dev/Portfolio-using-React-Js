@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce506360.css",
+    "main.js": "/static/js/main.2206bfc3.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/image-search.png": "/static/media/image-search.5f21bf99a41022699b93.png",
+    "static/media/Qr-code-generator.png": "/static/media/Qr-code-generator.cd470257d1c2ce1b345f.png",
+    "static/media/my-img.png": "/static/media/my-img.56f3e4f02dddc353904f.png",
+    "static/media/quizz-app.png": "/static/media/quizz-app.68efca89ed2e6c03a639.png",
+    "static/media/weather-app.png": "/static/media/weather-app.d130d3984409c7b878e8.png",
+    "static/media/text-to-speech.png": "/static/media/text-to-speech.70fdfccd7145dbb3f9d0.png",
+    "static/media/Post-app.png": "/static/media/Post-app.e825e72ef69e9379fbda.png",
+    "static/media/github.svg": "/static/media/github.d37bebd8efb81b05f5acf0948a4f5bbf.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin.svg": "/static/media/linkedin.9d6e1d88d64fe656b571b560b76b0f7d.svg",
+    "static/media/facebook.svg": "/static/media/facebook.32e9b0f9c0f7e23d414bceddf2fa17ec.svg",
+    "main.ce506360.css.map": "/static/css/main.ce506360.css.map",
+    "main.2206bfc3.js.map": "/static/js/main.2206bfc3.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce506360.css",
+    "static/js/main.2206bfc3.js"
+  ]
+}
